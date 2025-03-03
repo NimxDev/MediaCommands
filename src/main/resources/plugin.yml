@@ -1,0 +1,4 @@
+name: MediaCommands
+version: '1.0-SNAPSHOT'
+main: me.nimodev.mediaCommands.MediaCommands
+authors: [ NimoDev ]

@@ -1,0 +1,30 @@
+stream-usage:
+  - "&b&m----------------------------"
+  - "&b&lUsage"
+  - "&f* &b/stream [url]"
+  - "&b&m----------------------------"
+stream:
+  - "&b&m----------------------------"
+  - "&a%player% is now Streaming in %platform%!"
+  - "&a"
+  - "%stream%"
+  - "&a"
+  - "&b&m----------------------------"
+video-usage:
+  - "&b&m----------------------------"
+  - "&b&lUsage"
+  - "&f* &b/video [url]"
+  - "&b&m----------------------------"
+video:
+  - "&b&m----------------------------"
+  - "&a%player% has uploaded a video to %platform!"
+  - "&a"
+  - "%video%"
+  - "&a"
+  - "&b&m----------------------------"
+twitch: "&5&lTwitch"
+youtube: "&c&lYouTube"
+kick: "&a&lKick"
+button: "&a&l[Watch]"
+hoover: "&aLeft-Click to watch."
+cooldown: 60 # Seconds
