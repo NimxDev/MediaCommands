@@ -1,4 +1,4 @@
-## MediaCommands
+## MediaCommands [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cc4b90a9092249828cd4eb0822f11fd1)](https://app.codacy.com?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 A Simple Plugin to add to your Spigot Server a way to promote Streams & New Videos about your server or others with a simple command and full configurable messages
 
